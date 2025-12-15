@@ -1,16 +1,81 @@
-## Hi there 👋
+<h1 align="center">
+  <span style="background: linear-gradient(90deg, #000000, #666666); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
+    ██▓▒­░⡷⠂𝙰𝚕𝚑𝚊𝚖 𝚁𝚒𝚣𝚟𝚒⠐⢾░▒▓██
+  </span>
+</h1>
 
-<!--
-**alhamrizvi-cloud/alhamrizvi-cloud** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+  𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 • 𝙋𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙏𝙚𝙨𝙩𝙚𝙧
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+  <a href="mailto:its47h4m@gmail.com">📧 Email</a> •
+  <a href="https://github.com/alham-rizvi">GitHub</a> •
+  <a href="https://tryhackme.com/p/alhamrizvii">TryHackMe</a>
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+## 🧠 Profile
+Offensive Security Researcher & Penetration Tester specializing in  
+<strong>Web, API, and Network Security</strong>.
+
+- 🐞 Verified Bug Bounty Hunter (7+ valid vulnerabilities)
+- 🏆 Top **#6 National Rank** on TryHackMe
+- ⚔️ Strong focus on exploitation, reconnaissance & automation
+
+
+## 🛠️ Core Expertise
+### 🔴 Offensive Security
+![Web](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
+
+---
+
+## 📊 Skill Statistics
+
+### 🧪 Security Domains
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
+![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
+
+---
+
+### 💻 Programming & Scripting
+![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
+![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
+![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
+![PowerShell](https://img.shields.io/badge/PowerShell-75%25-222222?style=for-the-badge&logo=powershell)
+![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
+
+---
+
+### 🖥️ Operating Systems
+![Linux](https://img.shields.io/badge/Linux%20(Kali%2FParrot)-92%25-000000?style=for-the-badge&logo=linux)
+![Windows AD](https://img.shields.io/badge/Windows%20%2F%20Active%20Directory-80%25-000000?style=for-the-badge&logo=windows)
+
+---
+
+## ⚙️ Programming & Scripting
+<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/> </p>
+
+## 🔴 Security Tools & Offensive Utilities
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-black?style=for-the-badge&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-Advanced-black?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-black?style=for-the-badge&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-black?style=for-the-badge&logo=wireshark)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Advanced-black?style=for-the-badge&logo=owasp)
+![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-Intermediate-black?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
+
+
+
+
+
