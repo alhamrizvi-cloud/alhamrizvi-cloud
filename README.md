@@ -1,44 +1,30 @@
+<!-- ===================== HEADER ===================== -->
 <h1 align="center">
-  <span style="background: linear-gradient(90deg, #000000, #666666); -webkit-background-clip: text; -webkit-text-fill-color: transparent;">
-    ██▓▒­░⡷⠂𝙰𝚕𝚑𝚊𝚖 𝚁𝚒𝚣𝚟𝚒⠐⢾░▒▓██
-  </span>
+  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
 </h1>
 
-<h3 align="center">
-  𝙊𝙛𝙛𝙚𝙣𝙨𝙞𝙫𝙚 𝙎𝙚𝙘𝙪𝙧𝙞𝙩𝙮 𝙍𝙚𝙨𝙚𝙖𝙧𝙘𝙝𝙚𝙧 • 𝙋𝙚𝙣𝙚𝙩𝙧𝙖𝙩𝙞𝙤𝙣 𝙏𝙚𝙨𝙩𝙚𝙧
-</h3>
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/domain.png" alt="Website"/>
-  </a>
-  <a href="https://alhamrizvi.wordpress.com/" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/wordpress.png" alt="WordPress"/>
-  </a>
-  <a href="mailto:its47h4m@gmail.com">
-    <img src="https://img.icons8.com/fluency/48/gmail.png" alt="Email"/>
-  </a>
-  <a href="https://github.com/alhamrizvii" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/github.png" alt="GitHub"/>
-  </a>
-  <a href="https://www.linkedin.com/in/alham-rizvi" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/linkedin.png" alt="LinkedIn"/>
-  </a>
-  <a href="https://twitter.com/Alhamrizvii" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/twitter.png" alt="Twitter"/>
-  </a>
-  <a href="https://medium.com/@alhamr1zvi" target="_blank">
-    <img src="https://img.icons8.com/ios-filled/48/medium-logo.png" alt="Medium"/>
-  </a>
-  <a href="https://discord.com/users/alhamrizvi" target="_blank">
-    <img src="https://img.icons8.com/fluency/48/discord-logo.png" alt="Discord"/>
-  </a>
+  <em><strong>Web • API • Network and Cloud Security  • AI </strong></em>
 </p>
 
 <p align="center">
-  <a href="mailto:its47h4m@gmail.com">📧 Email</a> •
-  <a href="https://github.com/alhamrizvi-cloud">GitHub</a> •
-  <a href="https://tryhackme.com/p/alhamrizvii">TryHackMe</a>
+  <a href="https://alhamrizvi-cloud.github.io/">
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
+  </a>
+  <a href="https://alhamrizvi.wordpress.com/">
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
+  </a>
+  <a href="mailto:its47h4m@gmail.com">
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+  </a>
+  <a href="https://www.linkedin.com/in/alham-rizvi">
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+  </a>
+  <a href="https://twitter.com/Alhamrizvii">
+    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+  </a>
 </p>
+
 
 
 ## 🧠 Profile
