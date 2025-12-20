@@ -4,7 +4,7 @@
 </h1>
 
 <p align="center">
-  <em><strong>Web • API • Network and Cloud Security  • AI </strong></em>
+  <em><strong>Web • API • Network & Cloud Security  • AI </strong></em>
 </p>
 
 <p align="center">
