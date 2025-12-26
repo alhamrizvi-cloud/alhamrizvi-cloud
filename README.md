@@ -4,6 +4,11 @@
 </h1>
 
 <p align="center">
+  <img src="https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png" alt="Your Image Badge" />
+</p>
+
+
+<p align="center">
   <em><strong>Web • API • Network & Cloud Security  • AI </strong></em>
 </p>
 
