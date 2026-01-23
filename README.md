@@ -169,8 +169,12 @@ Offensive Security Researcher & Penetration Tester specializing in
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shodan_logo.png"/>
 </p>
 
-
----
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/alhamrizvi-cloud/alhamrizvi-cloud/output/snake-dark.svg">
+    <img src="https://raw.githubusercontent.com/alhamrizvi-cloud/alhamrizvi-cloud/output/snake.svg">
+  </picture>
+</p>
 
 ## 📈 GitHub Stats
 <p align="center">
