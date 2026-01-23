@@ -172,7 +172,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 
 ---
 
-## 📈 GitHub Stats (Dark Gradient)
+## 📈 GitHub Stats
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=alhamrizvi-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=bbbbbb" alt="Alham Rizvi GitHub Stats" />
 </p>
