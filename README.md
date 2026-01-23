@@ -169,8 +169,8 @@ Offensive Security Researcher & Penetration Tester specializing in
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Shodan-Intermediate-111111?style=for-the-badge"/>
-  <img src="https://img.shields.io/badge/Git-Advanced-111111?style=for-the-badge&logo=git"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shodan_logo.png"/>
+  <img src="https://e7.pngegg.com/pngimages/144/706/png-clipart-git-full-logo-tech-companies-thumbnail.png"/>
 </p>
 
 
