@@ -149,8 +149,3 @@ Offensive Security Researcher & Penetration Tester specializing in
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhamrizvi-cloud&theme=dark&hide_border=true" alt="GitHub Streak" />
 </p>
-
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=alhamrizvi-cloud&theme=dark&margin-w=15&column=7" />
-</p>
-
