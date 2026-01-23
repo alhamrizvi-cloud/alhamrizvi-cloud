@@ -31,7 +31,6 @@
 </p>
 
 
-
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
@@ -49,8 +48,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 ![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
 ![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
 
----
-
 ## 📊 Skill Statistics
 
 ### 🧪 Security Domains
@@ -60,27 +57,22 @@ Offensive Security Researcher & Penetration Tester specializing in
 ![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
 ![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
 
----
-
 ### 🖥️ Operating Systems
 <p align="left">
   <!-- Linux Distros -->
   <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
-  <img src="https://raw.githubusercontent.com/ParrotSec/artwork/main/logo/parrot-logo.png" width="42" title="Parrot Security"/>
-  <img src="https://raw.githubusercontent.com/archlinux/artwork/master/archlinux-logo-dark.svg" width="42" title="Arch Linux"/>
-  <img src="https://raw.githubusercontent.com/fedora-infra/fedora-logo/main/fedora-logo.png" width="42" title="Fedora"/>
-  <img src="https://raw.githubusercontent.com/debian/logos/master/debian-logo.png" width="42" title="Debian"/>
-  <img src="https://raw.githubusercontent.com/ubuntu/brand/master/Ubuntu/ubuntu-logo32.png" width="42" title="Ubuntu"/>
-  <img src="https://raw.githubusercontent.com/linuxmint/artwork/master/logo/mint.svg" width="42" title="Linux Mint"/>
-  <img src="https://raw.githubusercontent.com/Tails/tails-icons/main/tails-logo.png" width="42" title="Tails"/>
-  <img src="https://raw.githubusercontent.com/BlackArch/blackarch-logo/main/logo.png" width="42" title="BlackArch"/>
-  <!-- Other OS -->
+  <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
+  <img width="48" height="48" src="https://img.icons8.com/fluency/48/fedora.png" alt="fedora"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/12B886/external-linux-social-media-tanah-basah-glyph-tanah-basah.png" alt="external-linux-social-media-tanah-basah-glyph-tanah-basah"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/zorin.png" alt="zorin"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" title="Windows"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="42" title="macOS"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
 </p>
-
-
----
 
 ## ⚙️ Programming & Scripting
 
