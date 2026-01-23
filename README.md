@@ -65,7 +65,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 ### 🖥️ Operating Systems
 <p align="left">
   <!-- Linux Distros -->
-  <img src="https://raw.githubusercontent.com/alrra/dotfiles/master/assets/kali.png" width="42" title="Kali Linux"/>
+  <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
   <img src="https://raw.githubusercontent.com/ParrotSec/artwork/main/logo/parrot-logo.png" width="42" title="Parrot Security"/>
   <img src="https://raw.githubusercontent.com/archlinux/artwork/master/archlinux-logo-dark.svg" width="42" title="Arch Linux"/>
   <img src="https://raw.githubusercontent.com/fedora-infra/fedora-logo/main/fedora-logo.png" width="42" title="Fedora"/>
