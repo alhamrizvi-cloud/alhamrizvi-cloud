@@ -166,11 +166,7 @@ Offensive Security Researcher & Penetration Tester specializing in
   <img width="48" src="https://img.icons8.com/nolan/64/wireshark--v1.png" title="Wireshark"/>
   <img width="48" src="https://img.icons8.com/dusk/64/postman-api.png" title="Postman"/>
   <img width="48" src="https://www.kali.org/tools/caido/images/caido-logo.svg" title="Caido"/>
-</p>
-
-<p align="center">
   <img src="https://upload.wikimedia.org/wikipedia/commons/f/ff/Shodan_logo.png"/>
-  <img src="https://e7.pngegg.com/pngimages/144/706/png-clipart-git-full-logo-tech-companies-thumbnail.png"/>
 </p>
 
 
