@@ -127,7 +127,7 @@ Offensive Security Researcher & Penetration Tester specializing in
 ## 🔴 Security Tools & Offensive Utilities
 <p align="center">
   <!-- Core / Web -->
-  <img width="48" src="https://img.icons8.com/ios-filled/50/burp-suite.png" title="Burp Suite"/>
+  <img width="48" src="https://upload.wikimedia.org/wikipedia/commons/6/61/BurpSuite_logo.svg" title="Burp Suite"/>
   <img width="48" src="https://www.kali.org/tools/sqlmap/images/sqlmap-logo.svg" title="SQLmap"/>
   <img width="48" src="https://www.kali.org/tools/ffuf/images/ffuf-logo.svg" title="ffuf"/>
   <img width="48" src="https://www.kali.org/tools/whatweb/images/whatweb-logo.svg" title="WhatWeb"/>
