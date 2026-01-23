@@ -62,23 +62,48 @@ Offensive Security Researcher & Penetration Tester specializing in
 
 ---
 
-### 💻 Programming & Scripting
-![Python](https://img.shields.io/badge/Python-90%25-222222?style=for-the-badge&logo=python)
-![Bash](https://img.shields.io/badge/Bash-85%25-222222?style=for-the-badge&logo=gnu-bash)
-![JavaScript](https://img.shields.io/badge/JavaScript-80%25-222222?style=for-the-badge&logo=javascript)
-![PowerShell](https://img.shields.io/badge/PowerShell-75%25-222222?style=for-the-badge&logo=powershell)
-![SQL](https://img.shields.io/badge/SQL-80%25-222222?style=for-the-badge&logo=mysql)
-
----
-
 ### 🖥️ Operating Systems
-![Linux](https://img.shields.io/badge/Linux%20(Kali%2FParrot)-92%25-000000?style=for-the-badge&logo=linux)
-![Windows AD](https://img.shields.io/badge/Windows%20%2F%20Active%20Directory-80%25-000000?style=for-the-badge&logo=windows)
+<p align="left">
+  <!-- Linux Distros -->
+  <img src="https://raw.githubusercontent.com/alrra/dotfiles/master/assets/kali.png" width="42" title="Kali Linux"/>
+  <img src="https://raw.githubusercontent.com/ParrotSec/artwork/main/logo/parrot-logo.png" width="42" title="Parrot Security"/>
+  <img src="https://raw.githubusercontent.com/archlinux/artwork/master/archlinux-logo-dark.svg" width="42" title="Arch Linux"/>
+  <img src="https://raw.githubusercontent.com/fedora-infra/fedora-logo/main/fedora-logo.png" width="42" title="Fedora"/>
+  <img src="https://raw.githubusercontent.com/debian/logos/master/debian-logo.png" width="42" title="Debian"/>
+  <img src="https://raw.githubusercontent.com/ubuntu/brand/master/Ubuntu/ubuntu-logo32.png" width="42" title="Ubuntu"/>
+  <img src="https://raw.githubusercontent.com/linuxmint/artwork/master/logo/mint.svg" width="42" title="Linux Mint"/>
+  <img src="https://raw.githubusercontent.com/Tails/tails-icons/main/tails-logo.png" width="42" title="Tails"/>
+  <img src="https://raw.githubusercontent.com/BlackArch/blackarch-logo/main/logo.png" width="42" title="BlackArch"/>
+  <!-- Other OS -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" title="Windows"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/apple/apple-original.svg" width="42" title="macOS"/>
+</p>
+
 
 ---
 
 ## ⚙️ Programming & Scripting
-<p align="left"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="SQL"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML"/> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS"/> </p>
+
+<p align="left">
+  <!-- Programming Languages -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" width="42" title="TypeScript"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original.svg" width="42" title="Go"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" width="42" title="Ruby"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="42" title="Java"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="42" title="C"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="42" title="C++"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="42" title="C#"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php/php-original.svg" width="42" title="PHP"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/r/r-original.svg" width="42" title="R"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sqlite/sqlite-original.svg" width="42" title="SQLite"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="42" title="MySQL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="42" title="HTML5"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="42" title="CSS3"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="42" title="Markdown"/>
+</p>
 
 ## 🔴 Security Tools & Offensive Utilities
 ![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-black?style=for-the-badge&logo=burpsuite)
