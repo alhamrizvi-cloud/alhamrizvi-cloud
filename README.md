@@ -7,10 +7,31 @@
   <img src="https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png" alt="Your Image Badge" />
 </p>
 
+<p align="center">
+  <em><strong>Web • API • Network & Cloud Security • AI </strong></em>
+</p>
 
 <p align="center">
-  <em><strong>Web • API • Network & Cloud Security  • AI </strong></em>
+  <span>
+    <img src="https://img.shields.io/github/followers/alhamrizvi-cloud?label=Followers&style=flat-square&color=ffffff&labelColor=111111" alt="Followers"/>
+  </span>
+  <span>
+    <img src="https://img.shields.io/github/following/alhamrizvi-cloud?label=Following&style=flat-square&color=ffffff&labelColor=111111" alt="Following"/>
+  </span>
+  <span>
+    <img src="https://img.shields.io/github/stars/alhamrizvi-cloud?label=Stars&style=flat-square&color=ffffff&labelColor=111111" alt="Stars"/>
+  </span>
+  <span>
+    <img src="https://img.shields.io/github/languages/count/alhamrizvi-cloud?label=Languages&style=flat-square&color=ffffff&labelColor=111111" alt="Languages"/>
+  </span>
+  <span>
+    <img src="https://img.shields.io/github/repos/alhamrizvi-cloud?label=Repositories&style=flat-square&color=ffffff&labelColor=111111" alt="Repositories"/>
+  </span>
+  <span>
+    <img src="https://komarev.com/ghpvc/?username=alhamrizvi-cloud&color=ffffff&style=flat-square" alt="Profile Views"/>
+  </span>
 </p>
+
 
 <p align="center">
   <a href="https://alhamrizvi-cloud.github.io/">
@@ -30,6 +51,7 @@
   </a>
 </p>
 
+---
 
 ## 🧠 Profile
 Offensive Security Researcher & Penetration Tester specializing in  
@@ -39,44 +61,48 @@ Offensive Security Researcher & Penetration Tester specializing in
 - 🏆 Top **#6 National Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
+---
 
 ## 🛠️ Core Expertise
 ### 🔴 Offensive Security
-![Web](https://img.shields.io/badge/Web%20Pentesting-Expert-black?style=for-the-badge)
-![API](https://img.shields.io/badge/API%20Security-Advanced-black?style=for-the-badge)
-![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-black?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-black?style=for-the-badge)
-![VAPT](https://img.shields.io/badge/VAPT-Advanced-black?style=for-the-badge)
+![Web](https://img.shields.io/badge/Web%20Pentesting-Expert-111111?style=for-the-badge)
+![API](https://img.shields.io/badge/API%20Security-Advanced-111111?style=for-the-badge)
+![Network](https://img.shields.io/badge/Network%20Pentesting-Advanced-111111?style=for-the-badge)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-Expert-111111?style=for-the-badge)
+![VAPT](https://img.shields.io/badge/VAPT-Advanced-111111?style=for-the-badge)
+
+---
 
 ## 📊 Skill Statistics
 
 ### 🧪 Security Domains
-![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-111111?style=for-the-badge)
-![API Security](https://img.shields.io/badge/API%20Security-88%25-111111?style=for-the-badge)
-![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-111111?style=for-the-badge)
-![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-111111?style=for-the-badge)
-![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
+![Web Pentesting](https://img.shields.io/badge/Web%20Pentesting-90%25-444444?style=for-the-badge&labelColor=111111)
+![API Security](https://img.shields.io/badge/API%20Security-88%25-444444?style=for-the-badge&labelColor=111111)
+![Network Pentesting](https://img.shields.io/badge/Network%20Pentesting-85%25-444444?style=for-the-badge&labelColor=111111)
+![Vulnerability Research](https://img.shields.io/badge/Vulnerability%20Research-87%25-444444?style=for-the-badge&labelColor=111111)
+![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-444444?style=for-the-badge&labelColor=111111)
+
+---
 
 ### 🖥️ Operating Systems
-
 <p align="left">
   <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
   <img width="48" height="48" src="https://img.icons8.com/fluency/48/fedora.png" alt="fedora"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux--v1"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu--v1"/>
-  <img width="48" height="48" src="https://img.icons8.com/external-tanah-basah-glyph-tanah-basah/48/12B886/external-linux-social-media-tanah-basah-glyph-tanah-basah.png" alt="external-linux-social-media-tanah-basah-glyph-tanah-basah"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/zorin.png" alt="zorin"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android-os"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" title="Windows"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac-logo"/>
+  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac"/>
 </p>
+
+---
 
 ## ⚙️ Programming & Scripting
 <p align="left">
-  <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" width="42" title="Bash"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="42" title="JavaScript"/>
@@ -96,18 +122,35 @@ Offensive Security Researcher & Penetration Tester specializing in
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" width="42" title="Markdown"/>
 </p>
 
+---
+
 ## 🔴 Security Tools & Offensive Utilities
-![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-black?style=for-the-badge&logo=burpsuite)
-![Nmap](https://img.shields.io/badge/Nmap-Advanced-black?style=for-the-badge&logo=nmap)
-![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-black?style=for-the-badge&logo=metasploit)
-![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-black?style=for-the-badge&logo=wireshark)
-![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Advanced-black?style=for-the-badge&logo=owasp)
-![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-black?style=for-the-badge)
-![Shodan](https://img.shields.io/badge/Shodan-Intermediate-black?style=for-the-badge)
-![Hydra](https://img.shields.io/badge/Hydra-Intermediate-black?style=for-the-badge)
-![Git](https://img.shields.io/badge/Git-Advanced-black?style=for-the-badge&logo=git)
+![Burp Suite](https://img.shields.io/badge/Burp%20Suite-Expert-111111?style=for-the-badge&logo=burpsuite)
+![Nmap](https://img.shields.io/badge/Nmap-Advanced-111111?style=for-the-badge&logo=nmap)
+![Metasploit](https://img.shields.io/badge/Metasploit-Advanced-111111?style=for-the-badge&logo=metasploit)
+![Wireshark](https://img.shields.io/badge/Wireshark-Advanced-111111?style=for-the-badge&logo=wireshark)
+![OWASP ZAP](https://img.shields.io/badge/OWASP%20ZAP-Advanced-111111?style=for-the-badge&logo=owasp)
+![SQLmap](https://img.shields.io/badge/SQLmap-Intermediate-111111?style=for-the-badge)
+![Shodan](https://img.shields.io/badge/Shodan-Intermediate-111111?style=for-the-badge)
+![Hydra](https://img.shields.io/badge/Hydra-Intermediate-111111?style=for-the-badge)
+![Git](https://img.shields.io/badge/Git-Advanced-111111?style=for-the-badge&logo=git)
 
+---
 
+## 📈 GitHub Stats (Dark Gradient)
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=alhamrizvi-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=bbbbbb" alt="Alham Rizvi GitHub Stats" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhamrizvi-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" alt="Top Languages" />
+</p>
 
+<p align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhamrizvi-cloud&theme=dark&hide_border=true" alt="GitHub Streak" />
+</p>
+
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=alhamrizvi-cloud&theme=dark&margin-w=15&column=7" />
+</p>
 
