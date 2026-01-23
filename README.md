@@ -58,8 +58,8 @@ Offensive Security Researcher & Penetration Tester specializing in
 ![Recon](https://img.shields.io/badge/Recon%20%26%20Enumeration-92%25-111111?style=for-the-badge)
 
 ### 🖥️ Operating Systems
+
 <p align="left">
-  <!-- Linux Distros -->
   <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
   <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
@@ -75,7 +75,6 @@ Offensive Security Researcher & Penetration Tester specializing in
 </p>
 
 ## ⚙️ Programming & Scripting
-
 <p align="left">
   <!-- Programming Languages -->
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="42" title="Python"/>
