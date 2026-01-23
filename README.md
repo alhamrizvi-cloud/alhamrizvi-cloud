@@ -31,8 +31,6 @@
     <img src="https://komarev.com/ghpvc/?username=alhamrizvi-cloud&color=ffffff&style=flat-square" alt="Profile Views"/>
   </span>
 </p>
-
-
 <p align="center">
   <a href="https://alhamrizvi-cloud.github.io/">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
@@ -48,6 +46,12 @@
   </a>
   <a href="https://twitter.com/Alhamrizvii">
     <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+  </a>
+  <a href="https://www.instagram.com/Alhamrizvii">
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/>
+  </a>
+  <a href="https://www.reddit.com/user/Alhamrizvii">
+    <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit"/>
   </a>
 </p>
 
