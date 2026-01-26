@@ -89,18 +89,30 @@ Offensive Security Researcher & Penetration Tester specializing in
 ---
 
 ### 🖥️ Operating Systems
+
 <p align="left">
+  <!-- Security / Pentesting -->
   <img src="assets/os/parrot.png" width="42" title="Parrot Security"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/kali-linux.png" alt="kali-linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/arch-linux.png" alt="arch-linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/fluency/48/fedora.png" alt="fedora"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/linux--v1.png" alt="linux"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/debian.png" alt="debian"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/ubuntu--v1.png" alt="ubuntu"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/zorin.png" alt="zorin"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/android-os.png" alt="android"/>
+  <img src="https://img.icons8.com/color/48/kali-linux.png" width="42" title="Kali Linux"/>
+  <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/BlackArch_logo.png" width="42" title="BlackArch"/>
+
+  <!-- Linux Distros -->
+  <img src="https://img.icons8.com/color/48/arch-linux.png" width="42" title="Arch Linux"/>
+  <img src="https://img.icons8.com/fluency/48/fedora.png" width="42" title="Fedora"/>
+  <img src="https://img.icons8.com/color/48/debian.png" width="42" title="Debian"/>
+  <img src="https://img.icons8.com/color/48/ubuntu--v1.png" width="42" title="Ubuntu"/>
+  <img src="https://img.icons8.com/color/48/linux-mint.png" width="42" title="Linux Mint"/>
+  <img src="https://img.icons8.com/color/48/zorin.png" width="42" title="Zorin OS"/>
+  <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSZ-uWShZ8-N9qAw6Hso8_NxX5KrkwmDRyTXA&s" width="42" title="openSUSE"/>
+
+  <!-- Servers / Containers -->
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/redhat/redhat-original.svg" width="42" title="RHEL"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/centos/centos-original.svg" width="42" title="CentOS"/>
+
+  <!-- Desktop / Mobile -->
+  <img src="https://img.icons8.com/color/48/android-os.png" width="42" title="Android"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/windows8/windows8-original.svg" width="42" title="Windows"/>
-  <img width="48" height="48" src="https://img.icons8.com/color/48/mac-logo.png" alt="mac"/>
+  <img src="https://img.icons8.com/color/48/mac-logo.png" width="42" title="macOS"/>
 </p>
 
 ---
@@ -201,14 +213,31 @@ Offensive Security Researcher & Penetration Tester specializing in
 </p>
 
 ## 📈 GitHub Stats
+
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=alhamrizvi-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=bbbbbb" alt="Alham Rizvi GitHub Stats" />
+  <!-- Main GitHub Stats -->
+  <img src="https://github-readme-stats.vercel.app/api?username=alhamrizvi-cloud&show_icons=true&count_private=true&hide_border=true&bg_color=00000000&title_color=ffffff&icon_color=ffffff&text_color=bbbbbb" height="165"/>
+  
+  <!-- Top Languages -->
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhamrizvi-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bbbbbb" height="165"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=alhamrizvi-cloud&layout=compact&hide_border=true&bg_color=00000000&title_color=ffffff&text_color=bbbbbb&icon_color=ffffff" alt="Top Languages" />
+  <!-- GitHub Streak -->
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhamrizvi-cloud&theme=transparent&hide_border=true"/>
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=alhamrizvi-cloud&theme=dark&hide_border=true" alt="GitHub Streak" />
+  <!-- Contribution Graph -->
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=alhamrizvi-cloud&bg_color=00000000&color=bbbbbb&line=ffffff&point=ffffff&hide_border=true"/>
+</p>
+
+<p align="center">
+  <!-- GitHub Trophies -->
+  <img src="https://github-profile-trophy.vercel.app/?username=alhamrizvi-cloud&theme=darkhub&no-frame=true&no-bg=true&column=6"/>
+</p>
+
+<p align="center">
+  <!-- Profile Views -->
+  <img src="https://komarev.com/ghpvc/?username=alhamrizvi-cloud&style=flat&color=grey" alt="Profile Views"/>
 </p>
