@@ -55,21 +55,9 @@
 
 ## 🧠 Profile
 
-<p align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrcmhyOHphbGJ3MHBwcHA4dmlkNnNxMzdsM3YwMnk2ZXp1NDJ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" width="420" alt="Hacker GIF"/>
-</p>
-
-Offensive Security Researcher & Penetration Tester specializing in  
-<strong>Web, API, and Network Security</strong>.
-
-- 🐞 Verified Bug Bounty Hunter (10+ valid vulnerabilities)
-- 🏆 Top **#6 National Rank** on TryHackMe
-- ⚔️ Strong focus on exploitation, reconnaissance & automation
-
-[![View Design](https://image2url.com/r2/default/gifs/1769402249214-f83d0250-fcd8-4907-b561-9889c62433a4.gif)](https://www.canva.com/design/DAG_fD0CXbo/3A5zJDaTtg7vPmdB50NmNw/view?utm_content=DAG_fD0CXbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4452551763)
-[![View Design](https://image2url.com/r2/default/gifs/1769402421045-0901bb6a-c8b5-4f73-8f71-0ef050ad761b.gif)](https://www.canva.com/design/DAG_fD0CXbo/3A5zJDaTtg7vPmdB50NmNw/view?utm_content=DAG_fD0CXbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4452551763)
-
-
+[![GIF2](https://image2url.com/r2/default/gifs/1769402249214-f83d0250-fcd8-4907-b561-9889c62433a4.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
+[![GIF3](https://image2url.com/r2/default/gifs/1769402421045-0901bb6a-c8b5-4f73-8f71-0ef050ad761b.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
+[![GIF1](https://image2url.com/r2/default/gifs/1769403210999-d4fe17b2-4a1e-44f4-97a2-1b6d5947a247.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
 
 
 ---
