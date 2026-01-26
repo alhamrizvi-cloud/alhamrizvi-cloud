@@ -66,6 +66,12 @@ Offensive Security Researcher & Penetration Tester specializing in
 - 🏆 Top **#6 National Rank** on TryHackMe
 - ⚔️ Strong focus on exploitation, reconnaissance & automation
 
+[![View Design](https://image2url.com/r2/default/gifs/1769402249214-f83d0250-fcd8-4907-b561-9889c62433a4.gif)](https://www.canva.com/design/DAG_fD0CXbo/3A5zJDaTtg7vPmdB50NmNw/view?utm_content=DAG_fD0CXbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4452551763)
+[![View Design](https://image2url.com/r2/default/gifs/1769402421045-0901bb6a-c8b5-4f73-8f71-0ef050ad761b.gif)](https://www.canva.com/design/DAG_fD0CXbo/3A5zJDaTtg7vPmdB50NmNw/view?utm_content=DAG_fD0CXbo&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h4452551763)
+
+
+
+
 ---
 
 ## 🛠️ Core Expertise
