@@ -53,14 +53,9 @@
 
 <hr/>
 
-## 🧠 Profile
-
 [![GIF2](https://image2url.com/r2/default/gifs/1769402249214-f83d0250-fcd8-4907-b561-9889c62433a4.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
 [![GIF3](https://image2url.com/r2/default/gifs/1769402421045-0901bb6a-c8b5-4f73-8f71-0ef050ad761b.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
 [![GIF1](https://image2url.com/r2/default/gifs/1769403210999-d4fe17b2-4a1e-44f4-97a2-1b6d5947a247.gif)](https://www.canva.com/design/DAG_fD0CXbo/view)
-
-
----
 
 ## 🛠️ Core Expertise
 ### 🔴 Offensive Security
