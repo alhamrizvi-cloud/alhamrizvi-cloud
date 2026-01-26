@@ -1,63 +1,65 @@
 <!-- ===================== HEADER ===================== -->
+
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester" />
+  <img
+    src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&size=26&duration=3000&pause=800&color=7A7A7A&center=true&vCenter=true&width=600&lines=Alham+Rizvi;Offensive+Security+Researcher;Penetration+Tester"
+    alt="Typing SVG"
+  />
 </h1>
 
 <p align="center">
-  <img src="https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png" alt="Your Image Badge" />
+  <img
+    src="https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png"
+    alt="TryHackMe Badge"
+  />
 </p>
 
 <p align="center">
-  <em><strong>Web • API • Network & Cloud Security • AI </strong></em>
+  <strong><em>Web • API • Network & Cloud Security • AI</em></strong>
 </p>
 
 <p align="center">
-  <span>
-    <img src="https://img.shields.io/github/followers/alhamrizvi-cloud?label=Followers&style=flat-square&color=ffffff&labelColor=111111" alt="Followers"/>
-  </span>
-  <span>
-    <img src="https://img.shields.io/github/following/alhamrizvi-cloud?label=Following&style=flat-square&color=ffffff&labelColor=111111" alt="Following"/>
-  </span>
-  <span>
-    <img src="https://img.shields.io/github/stars/alhamrizvi-cloud?label=Stars&style=flat-square&color=ffffff&labelColor=111111" alt="Stars"/>
-  </span>
-  <span>
-    <img src="https://img.shields.io/github/languages/count/alhamrizvi-cloud?label=Languages&style=flat-square&color=ffffff&labelColor=111111" alt="Languages"/>
-  </span>
-  <span>
-    <img src="https://img.shields.io/github/repos/alhamrizvi-cloud?label=Repositories&style=flat-square&color=ffffff&labelColor=111111" alt="Repositories"/>
-  </span>
-  <span>
-    <img src="https://komarev.com/ghpvc/?username=alhamrizvi-cloud&color=ffffff&style=flat-square" alt="Profile Views"/>
-  </span>
+  <img src="https://img.shields.io/github/followers/alhamrizvi-cloud?label=Followers&style=flat-square&color=ffffff&labelColor=111111" alt="Followers"/>
+  <img src="https://img.shields.io/github/following/alhamrizvi-cloud?label=Following&style=flat-square&color=ffffff&labelColor=111111" alt="Following"/>
+  <img src="https://img.shields.io/github/stars/alhamrizvi-cloud?label=Stars&style=flat-square&color=ffffff&labelColor=111111" alt="Stars"/>
+  <img src="https://img.shields.io/github/languages/count/alhamrizvi-cloud?label=Languages&style=flat-square&color=ffffff&labelColor=111111" alt="Languages"/>
+  <img src="https://img.shields.io/github/repos/alhamrizvi-cloud?label=Repos&style=flat-square&color=ffffff&labelColor=111111" alt="Repositories"/>
+  <img src="https://komarev.com/ghpvc/?username=alhamrizvi-cloud&color=ffffff&style=flat-square" alt="Profile Views"/>
 </p>
+
 <p align="center">
   <a href="https://alhamrizvi-cloud.github.io/">
-    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome"/>
+    <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
   <a href="https://alhamrizvi.wordpress.com/">
-    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress"/>
+    <img src="https://img.shields.io/badge/Blog-000000?style=for-the-badge&logo=wordpress" alt="Blog"/>
   </a>
   <a href="mailto:its47h4m@gmail.com">
-    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail"/>
+    <img src="https://img.shields.io/badge/Email-000000?style=for-the-badge&logo=gmail" alt="Email"/>
   </a>
   <a href="https://www.linkedin.com/in/alham-rizvi">
-    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin"/>
+    <img src="https://img.shields.io/badge/LinkedIn-000000?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
   </a>
   <a href="https://twitter.com/Alhamrizvii">
-    <img src="https://img.shields.io/badge/Twitter-000000?style=for-the-badge&logo=x"/>
+    <img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x" alt="X"/>
   </a>
   <a href="https://www.instagram.com/Alhamrizvii">
-    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram"/>
+    <img src="https://img.shields.io/badge/Instagram-000000?style=for-the-badge&logo=instagram" alt="Instagram"/>
   </a>
   <a href="https://www.reddit.com/user/Alhamrizvii">
-    <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit"/>
+    <img src="https://img.shields.io/badge/Reddit-000000?style=for-the-badge&logo=reddit" alt="Reddit"/>
   </a>
 </p>
 
----
+<hr/>
+
 
 ## 🧠 Profile
+
+<p align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExdHJrcmhyOHphbGJ3MHBwcHA4dmlkNnNxMzdsM3YwMnk2ZXp1NDJ4MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/lgTpcy4dkdUc0/giphy.gif" width="420" alt="Hacker GIF"/>
+</p>
+
 Offensive Security Researcher & Penetration Tester specializing in  
 <strong>Web, API, and Network Security</strong>.
 
