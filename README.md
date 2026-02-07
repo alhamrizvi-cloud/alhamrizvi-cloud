@@ -28,7 +28,7 @@
 </p>
 
 <p align="center">
-  <a href="https://alhamrizvi-cloud.github.io/">
+  <a href="https://alhamrizvi.in">
     <img src="https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=google-chrome" alt="Website"/>
   </a>
   <a href="https://alhamrizvi.wordpress.com/">
