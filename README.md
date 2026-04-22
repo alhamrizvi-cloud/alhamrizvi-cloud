@@ -20,7 +20,8 @@
 
 <br/>
 
-[![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/Alhamrizvii.png)](https://tryhackme.com/p/Alhamrizvii)
+<img width="1338" height="279" alt="image" src="https://github.com/user-attachments/assets/1b6e98ad-7ee8-4e6d-adfc-7c57a8df3a69" />
+
 
 <br/>
 
