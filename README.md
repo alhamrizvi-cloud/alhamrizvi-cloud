@@ -1,4 +1,4 @@
-I have a mouth and i must LARP!!!
+21 yo, mid CS student interested in Vulnerability research 
 
 Website : https://alhamrizvi.in
 
